@@ -2,7 +2,7 @@ Passo a passo
 
 npm install
 
-docker-compose up -d
+docker-compose up
 
 acesse localhost:8080
 
